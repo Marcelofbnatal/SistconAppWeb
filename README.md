@@ -1,6 +1,6 @@
 # SistconAppWeb
-# springboot-adminlte-thymeleaf
-This is a demo for SpringBoot AdminLTE Thymeleaf template with Spring Security
+# Sistema Web para gerenciamento e controle de condomínios
+
 
 # Demo
 [DEMO-URL](https://floating-journey-79487.herokuapp.com/)
